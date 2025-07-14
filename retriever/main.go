@@ -30,6 +30,7 @@ func post(poster Poster) {
 			"name":   "ccmouse",
 			"course": "golang",
 		})
+
 }
 
 type RetrieverPoster interface {
