@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../functional/fib"
+	"github.com/cwfcb/learngo/functional/fib"
 	"bufio"
 	"fmt"
 	"os"

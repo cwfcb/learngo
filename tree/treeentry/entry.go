@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"../../tree"
+	"github.com/cwfcb/learngo/tree"
 )
 
 type myTreeNode struct {

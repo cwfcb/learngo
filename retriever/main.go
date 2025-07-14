@@ -5,8 +5,8 @@ import (
 
 	"time"
 
-	"./mock"
-	"./real"
+	"github.com/cwfcb/learngo/retriever/mock"
+	"github.com/cwfcb/learngo/retriever/real"
 )
 
 type Retriever interface {

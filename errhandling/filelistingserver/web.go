@@ -6,7 +6,7 @@ import (
 	_ "net/http/pprof"
 	"os"
 
-	"./filelisting"
+	"github.com/cwfcb/learngo/errhandling/filelistingserver/filelisting"
 )
 
 type appHandler func(writer http.ResponseWriter,
